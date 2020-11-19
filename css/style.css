@@ -1,0 +1,10 @@
+h1.titre{
+    text-align: center;
+    text-decoration: underline;
+}
+.bg-light-dark{
+    background-color: rgb(120, 125, 129)!important;
+}
+.table-active{
+    background-color:rgba(189, 188, 188, 0.418);
+}
